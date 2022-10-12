@@ -1,0 +1,329 @@
+#bt
+{
+    position: relative;
+}
+
+#header
+{
+    background-color: white;
+    margin-top: 0;  
+    padding-top: 10px;
+    border-bottom: 1px soid gray;  
+    position: absolute;
+    z-index: 3;
+}
+
+ 
+
+#an
+{
+    
+    position: absolute;
+    z-index: 4;
+    
+}
+
+
+
+#body
+{
+    margin-top: 69px;
+    position: absolute;
+    z-index: 1;
+   
+    background-color: White;
+}
+
+#narmenu
+{
+   
+   
+    border: none;
+}
+
+
+
+#menuan
+{
+    display: none;
+    position: relative;
+    z-index: 2;
+}
+
+#list
+{
+    font-size: 30px;
+
+}
+
+#cuoi
+{     
+    display:flex;
+    justify-content:flex-end;
+    margin: auto;
+}
+
+#cuoi1
+{     
+    display:flex;
+    justify-content:flex-end;
+    margin: auto;
+}
+
+
+#dangnhap
+{
+    border-color: blue;
+    
+}
+
+#dangnhap1
+{
+    
+    color:blue;
+    text-decoration: none;
+    
+}
+
+
+#menuan
+{
+    display: none;   
+    background-color: white;
+    z-index: 2;
+    
+    
+    
+}
+
+#menuan1
+{
+    background-color: white;
+}
+
+
+#narv ul
+{
+    list-style-type: none;
+    text-align: left;
+    font-size: 13px;
+    
+}
+
+
+
+#narv1
+{
+    margin-top: 60px;
+    list-style-type: none;
+    overflow-y: scroll;
+    width: 250px;
+    background-color: white;
+    height: 550px;
+   
+}
+
+#narv1 ul li
+{
+    list-style-type: none;
+    text-align: left;
+    
+    padding: 0;
+}
+
+#nutdangnhap
+{
+    background-color: white;
+    border-color: blue;
+    color:blue;
+}
+
+
+#thuvideo
+{
+    border-top: 0.5px solid gray;
+    border-bottom: 0.5px solid gray;
+}
+
+#kham
+{
+    border-top: 0.5px solid gray;
+    border-bottom: 0.5px solid gray;
+}
+
+#dvyou
+{
+    border-top: 0.5px solid gray;
+    border-bottom: 0.5px solid gray;
+}
+
+#gioithieu
+{
+    border-top: 0.5px solid gray;
+}
+
+
+
+#menu
+{
+    
+    font-size: 10px;
+    padding: 0;
+    margin: 0;
+}
+
+#menu ul, li
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+
+
+
+#loc
+{
+    width:100%;   
+    text-align: center ;
+    background-color: white;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    display:block;
+    display:flex;
+    justify-content:center;
+    overflow: hidden;
+   
+}
+
+#nutphai
+{
+    
+    display: none;
+    width:100%;   
+    text-align: center ;
+    background-color: white;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    position: absolute;
+    z-index: 2;
+    
+}
+
+
+#loc span
+{
+    
+    background-color: white;
+    overflow-x: scroll;
+    
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-top: 0;
+
+    display:flex;
+    justify-content:center;
+}
+
+#loc span
+{
+    
+    background-color: white;
+    
+    
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-top: 0;
+
+    display:flex;
+    justify-content:center;
+}
+
+.btn-circle
+{
+    border: 1px solid gray;
+    border-radius: 12px;    
+    text-align: center;
+    font-size: 15px;
+    padding: 5px;
+    margin: 10px;
+    background-color: #efeaeaf6;
+}
+
+#anphai
+{
+    display: none;
+    
+    background-color: white;
+    height:60px;
+    border: 0;
+    padding-top: 5px;
+}
+
+#antrai
+{
+    
+    background-color: white;
+    border: 0;
+    height:30px;
+}
+
+
+
+
+
+
+
+#all
+{
+    color: white;
+    background-color: black;
+}
+
+#main
+{
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 0;
+    margin-top: 55px;
+    overflow-x:hidden;
+    overflow-y:auto;
+    
+}
+
+.head
+{
+    max-width:300px;
+}
+
+
+
+#phongto
+{
+    display: none;
+    position: relative;
+    z-index: 1;
+    width: 353px;
+    height: 350px;
+    background-color: white;
+    padding:0;
+    margin:0;
+}
+
+#khungnutvideo
+{
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 1px;
+}
+
+#nutvideo
+{
+    width:95%;
+    background-color:#efeaeaf6;
+    border-color:#efeaeaf6;
+    color: #36353582;
+    
+}
